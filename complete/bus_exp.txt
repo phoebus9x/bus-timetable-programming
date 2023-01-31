@@ -1,0 +1,6 @@
+81E 30 7 0 0 22 0 0 7 A 7 5 15 S 8 8 18 D 9 15 56 F 10 23 5 G 11 35 2 H 13 1 25 Q 13 56 0 4215 3 friday saturday sunday
+5E 25 5 0 0 23 0 0 5 A 5 10 0 B 6 2 0 C 6 58 0 D 7 45 0 E 9 0 0 9432 4 monday tuesday friday saturday
+100E 25 5 0 0 23 0 0 5 A 5 13 0 B 6 2 0 C 6 58 0 D 7 45 0 E 9 0 0 9432 4 monday tuesday friday saturday
+62E 25 5 0 0 23 0 0 5 Q 5 15 0 W 7 4 3 E 8 32 15 R 10 2 15 T 11 48 22 6583 5 monday tuesday wednesday thursday friday
+15E 25 5 0 0 23 0 0 5 A 5 11 45 B 6 2 0 C 6 58 0 D 7 45 0 E 9 0 0 9432 4 monday tuesday friday saturday
+24E 25 5 0 0 23 0 0 5 A 5 31 12 B 6 2 0 C 6 58 0 D 7 45 0 E 9 0 0 9432 4 monday tuesday friday saturday

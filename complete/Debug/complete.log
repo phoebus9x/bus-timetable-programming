@@ -1,0 +1,938 @@
+﻿  account.cpp
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\account.cpp(70,25): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\account.cpp(107,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\account.cpp(185,24): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\account.cpp(255,25): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\account.cpp(268,25): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\account.cpp(510,23): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\account.cpp(537,27): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\account.cpp(568,27): warning C4018: '<': signed/unsigned mismatch
+  bus.cpp
+  bus_c.cpp
+  bus_exp.cpp
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\bus_exp.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\bus_exp.cpp(51,24): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\bus_exp.cpp(62,24): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\bus_exp.cpp(74,10): warning C4129: '=': unrecognized character escape sequence
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\bus_exp.cpp(75,24): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\bus_exp.cpp(84,24): warning C4018: '<': signed/unsigned mismatch
+  interface.cpp
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'Ring<Vehicle>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Vehicle>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'bool Ring<Vehicle>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Vehicle>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Vehicle>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Vehicle>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Vehicle>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Vehicle>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Vehicle>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Vehicle>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Vehicle>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'int Ring<Vehicle>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Vehicle>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Vehicle>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Vehicle>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Vehicle>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Vehicle>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Vehicle>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'Ring<Bus>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Bus>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'bool Ring<Bus>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Bus>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Bus>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Bus>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Bus>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Bus>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Bus>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Bus>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Bus>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'int Ring<Bus>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Bus>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Bus>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Bus>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Bus>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Bus>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Bus>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'Ring<Tram>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Tram>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'bool Ring<Tram>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Tram>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Tram
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Tram>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Tram
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Tram>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Tram
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Tram>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Tram>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Tram>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Tram
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Tram>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Tram>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'int Ring<Tram>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Tram>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Tram>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Tram>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Tram>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Tram>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Tram>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'Ring<Trolleybus>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Trolleybus>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'bool Ring<Trolleybus>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Trolleybus>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Trolleybus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Trolleybus>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Trolleybus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Trolleybus>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Trolleybus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Trolleybus>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Trolleybus>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Trolleybus>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Trolleybus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Trolleybus>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Trolleybus>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'int Ring<Trolleybus>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Trolleybus>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Trolleybus>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Trolleybus>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Trolleybus>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Trolleybus>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Trolleybus>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'Ring<Bus_exp>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Bus_exp>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'bool Ring<Bus_exp>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Bus_exp>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_exp
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Bus_exp>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_exp
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Bus_exp>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_exp
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Bus_exp>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Bus_exp>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Bus_exp>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_exp
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Bus_exp>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Bus_exp>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'int Ring<Bus_exp>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Bus_exp>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Bus_exp>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Bus_exp>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Bus_exp>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Bus_exp>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Bus_exp>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'Ring<Bus_school>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Bus_school>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'bool Ring<Bus_school>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Bus_school>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_school
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Bus_school>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_school
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Bus_school>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_school
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Bus_school>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Bus_school>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Bus_school>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_school
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Bus_school>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Bus_school>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'int Ring<Bus_school>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Bus_school>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Bus_school>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Bus_school>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Bus_school>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Bus_school>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Bus_school>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(135,6): warning C4101: 'pos': unreferenced local variable
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(130): message : while compiling class template member function 'void Interface<Vehicle>::fun_user(std::string)'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(29): message : see reference to class template instantiation 'Interface<Vehicle>' being compiled
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'Ring<Vehicle>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Vehicle>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'bool Ring<Vehicle>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Vehicle>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Vehicle>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Vehicle>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Vehicle>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Vehicle>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Vehicle>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Vehicle>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Vehicle>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Vehicle>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Vehicle>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Vehicle>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Vehicle>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Vehicle>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Vehicle>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Vehicle>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'int Ring<Vehicle>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Vehicle>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Vehicle>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Vehicle>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Vehicle>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Vehicle>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Vehicle>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Vehicle>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Vehicle>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Vehicle>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Vehicle>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Vehicle>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'Ring<Bus>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Bus>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'bool Ring<Bus>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Bus>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Bus>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Bus>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Bus>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Bus>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Bus>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Bus>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Bus>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'int Ring<Bus>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Bus>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Bus>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Bus>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Bus>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Bus>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Bus>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'Ring<Tram>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Tram>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'bool Ring<Tram>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Tram>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Tram>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Tram
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Tram>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Tram>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Tram
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Tram>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Tram>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Tram
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Tram>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Tram>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Tram>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Tram>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Tram>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Tram>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Tram
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Tram>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Tram>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Tram>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'int Ring<Tram>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Tram>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Tram>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Tram>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Tram>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Tram>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Tram>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Tram>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Tram>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Tram>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Tram>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Tram>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'Ring<Trolleybus>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Trolleybus>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'bool Ring<Trolleybus>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Trolleybus>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Trolleybus>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Trolleybus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Trolleybus>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Trolleybus>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Trolleybus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Trolleybus>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Trolleybus>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Trolleybus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Trolleybus>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Trolleybus>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Trolleybus>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Trolleybus>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Trolleybus>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Trolleybus>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Trolleybus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Trolleybus>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Trolleybus>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Trolleybus>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'int Ring<Trolleybus>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Trolleybus>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Trolleybus>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Trolleybus>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Trolleybus>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Trolleybus>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Trolleybus>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Trolleybus>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Trolleybus>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Trolleybus>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Trolleybus>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Trolleybus>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'Ring<Bus_exp>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Bus_exp>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'bool Ring<Bus_exp>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Bus_exp>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_exp>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_exp
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Bus_exp>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_exp>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_exp
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Bus_exp>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_exp>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_exp
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Bus_exp>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_exp>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Bus_exp>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_exp>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Bus_exp>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_exp>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_exp
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Bus_exp>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_exp>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Bus_exp>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'int Ring<Bus_exp>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Bus_exp>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_exp>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Bus_exp>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_exp>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Bus_exp>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_exp>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Bus_exp>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_exp>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Bus_exp>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_exp>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Bus_exp>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'Ring<Bus_school>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Bus_school>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'bool Ring<Bus_school>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Bus_school>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_school>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_school
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Bus_school>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_school>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_school
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Bus_school>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_school>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_school
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Bus_school>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_school>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Bus_school>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_school>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Bus_school>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_school>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_school
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Bus_school>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_school>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Bus_school>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'int Ring<Bus_school>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Bus_school>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_school>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Bus_school>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_school>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Bus_school>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_school>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Bus_school>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_school>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Bus_school>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.cpp(7): warning C4661: 'void Ring<Bus_school>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Bus_school>::write_file'
+  ring.cpp
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(6): message : while compiling class template member function 'Ring<Vehicle>::~Ring(void)'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): message : see reference to class template instantiation 'Ring<Vehicle>' being compiled
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(127,26): warning C4018: '<=': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(73): message : while compiling class template member function 'void Ring<Vehicle>::insert_pos(T,int)'
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(260,23): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(228): message : while compiling class template member function 'void Ring<Vehicle>::delete_pos(int)'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(218,23): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(199): message : while compiling class template member function 'void Ring<Vehicle>::update(T,int)'
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(156,23): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(148): message : while compiling class template member function 'void Ring<Vehicle>::display(void)'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(288,23): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(278): message : while compiling class template member function 'void Ring<Vehicle>::search_stop(std::string)'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(290,24): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(312,23): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.cpp(304): message : while compiling class template member function 'void Ring<Vehicle>::search_ID(char *)'
+  sha256.cpp
+  Source.cpp
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'Ring<Vehicle>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Vehicle>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'bool Ring<Vehicle>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Vehicle>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Vehicle>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Vehicle>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Vehicle>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Vehicle>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Vehicle>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Vehicle
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Vehicle>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Vehicle>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'int Ring<Vehicle>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Vehicle>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Vehicle>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Vehicle>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Vehicle>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Vehicle>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(50): warning C4661: 'void Ring<Vehicle>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Vehicle>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'Ring<Bus>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Bus>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'bool Ring<Bus>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Bus>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Bus>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Bus>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Bus>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Bus>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Bus>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Bus>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Bus>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'int Ring<Bus>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Bus>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Bus>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Bus>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Bus>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Bus>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(51): warning C4661: 'void Ring<Bus>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Bus>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'Ring<Tram>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Tram>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'bool Ring<Tram>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Tram>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Tram
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Tram>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Tram
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Tram>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Tram
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Tram>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Tram>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Tram>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Tram
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Tram>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Tram>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'int Ring<Tram>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Tram>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Tram>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Tram>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Tram>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Tram>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(52): warning C4661: 'void Ring<Tram>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Tram>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'Ring<Trolleybus>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Trolleybus>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'bool Ring<Trolleybus>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Trolleybus>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Trolleybus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Trolleybus>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Trolleybus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Trolleybus>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Trolleybus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Trolleybus>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Trolleybus>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Trolleybus>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Trolleybus
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Trolleybus>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Trolleybus>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'int Ring<Trolleybus>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Trolleybus>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Trolleybus>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Trolleybus>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Trolleybus>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Trolleybus>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(53): warning C4661: 'void Ring<Trolleybus>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Trolleybus>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'Ring<Bus_exp>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Bus_exp>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'bool Ring<Bus_exp>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Bus_exp>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_exp
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Bus_exp>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_exp
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Bus_exp>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_exp
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Bus_exp>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Bus_exp>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Bus_exp>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_exp
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Bus_exp>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Bus_exp>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'int Ring<Bus_exp>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Bus_exp>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Bus_exp>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Bus_exp>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Bus_exp>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Bus_exp>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(54): warning C4661: 'void Ring<Bus_exp>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Bus_exp>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'Ring<Bus_school>::~Ring(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(33): message : see declaration of 'Ring<Bus_school>::~Ring'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'bool Ring<Bus_school>::empty(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(34): message : see declaration of 'Ring<Bus_school>::empty'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::insert_begin(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_school
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(35): message : see declaration of 'Ring<Bus_school>::insert_begin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::insert_end(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_school
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(36): message : see declaration of 'Ring<Bus_school>::insert_end'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::insert_pos(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_school
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(37): message : see declaration of 'Ring<Bus_school>::insert_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::pop(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(38): message : see declaration of 'Ring<Bus_school>::pop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::delete_pos(int)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(39): message : see declaration of 'Ring<Bus_school>::delete_pos'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::update(T,int)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Bus_school
+          ]
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(40): message : see declaration of 'Ring<Bus_school>::update'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::display(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(41): message : see declaration of 'Ring<Bus_school>::display'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'int Ring<Bus_school>::getLength(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(42): message : see declaration of 'Ring<Bus_school>::getLength'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::search_stop(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(43): message : see declaration of 'Ring<Bus_school>::search_stop'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::sort_ID(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(44): message : see declaration of 'Ring<Bus_school>::sort_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::search_ID(char *)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(45): message : see declaration of 'Ring<Bus_school>::search_ID'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::read_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(46): message : see declaration of 'Ring<Bus_school>::read_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(55): warning C4661: 'void Ring<Bus_school>::write_file(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\ring.h(47): message : see declaration of 'Ring<Bus_school>::write_file'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(29): warning C4661: 'void Interface<Vehicle>::menu_admin(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(23): message : see declaration of 'Interface<Vehicle>::menu_admin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(29): warning C4661: 'void Interface<Vehicle>::menu_user(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(24): message : see declaration of 'Interface<Vehicle>::menu_user'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(29): warning C4661: 'void Interface<Vehicle>::fun_admin(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(25): message : see declaration of 'Interface<Vehicle>::fun_admin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(29): warning C4661: 'void Interface<Vehicle>::fun_user(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(26): message : see declaration of 'Interface<Vehicle>::fun_user'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(30): warning C4661: 'void Interface<Tram>::menu_admin(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(23): message : see declaration of 'Interface<Tram>::menu_admin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(30): warning C4661: 'void Interface<Tram>::menu_user(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(24): message : see declaration of 'Interface<Tram>::menu_user'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(30): warning C4661: 'void Interface<Tram>::fun_admin(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(25): message : see declaration of 'Interface<Tram>::fun_admin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(30): warning C4661: 'void Interface<Tram>::fun_user(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(26): message : see declaration of 'Interface<Tram>::fun_user'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(31): warning C4661: 'void Interface<Bus>::menu_admin(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(23): message : see declaration of 'Interface<Bus>::menu_admin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(31): warning C4661: 'void Interface<Bus>::menu_user(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(24): message : see declaration of 'Interface<Bus>::menu_user'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(31): warning C4661: 'void Interface<Bus>::fun_admin(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(25): message : see declaration of 'Interface<Bus>::fun_admin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(31): warning C4661: 'void Interface<Bus>::fun_user(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(26): message : see declaration of 'Interface<Bus>::fun_user'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(32): warning C4661: 'void Interface<Trolleybus>::menu_admin(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(23): message : see declaration of 'Interface<Trolleybus>::menu_admin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(32): warning C4661: 'void Interface<Trolleybus>::menu_user(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(24): message : see declaration of 'Interface<Trolleybus>::menu_user'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(32): warning C4661: 'void Interface<Trolleybus>::fun_admin(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(25): message : see declaration of 'Interface<Trolleybus>::fun_admin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(32): warning C4661: 'void Interface<Trolleybus>::fun_user(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(26): message : see declaration of 'Interface<Trolleybus>::fun_user'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(33): warning C4661: 'void Interface<Bus_exp>::menu_admin(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(23): message : see declaration of 'Interface<Bus_exp>::menu_admin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(33): warning C4661: 'void Interface<Bus_exp>::menu_user(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(24): message : see declaration of 'Interface<Bus_exp>::menu_user'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(33): warning C4661: 'void Interface<Bus_exp>::fun_admin(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(25): message : see declaration of 'Interface<Bus_exp>::fun_admin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(33): warning C4661: 'void Interface<Bus_exp>::fun_user(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(26): message : see declaration of 'Interface<Bus_exp>::fun_user'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(34): warning C4661: 'void Interface<Bus_school>::menu_admin(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(23): message : see declaration of 'Interface<Bus_school>::menu_admin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(34): warning C4661: 'void Interface<Bus_school>::menu_user(void)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(24): message : see declaration of 'Interface<Bus_school>::menu_user'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(34): warning C4661: 'void Interface<Bus_school>::fun_admin(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(25): message : see declaration of 'Interface<Bus_school>::fun_admin'
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(34): warning C4661: 'void Interface<Bus_school>::fun_user(std::string)': no suitable definition provided for explicit template instantiation request
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\interface.h(26): message : see declaration of 'Interface<Bus_school>::fun_user'
+  trolleybus.cpp
+  time.cpp
+  tram.cpp
+  vehicle.cpp
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\vehicle.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\vehicle.cpp(122,24): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\vehicle.cpp(147,24): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\vehicle.cpp(163,24): warning C4018: '<': signed/unsigned mismatch
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\vehicle.cpp(172,24): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\vehicle.cpp(212): warning C4715: 'Vehicle::operator>': not all control paths return a value
+D:\Hoc_tap\kì 3\kurxovoi\complete\complete\account.cpp(219): warning C4715: 'Account::login': not all control paths return a value
+  complete.vcxproj -> D:\Hoc_tap\kì 3\kurxovoi\complete\Debug\complete.exe
